@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-dauria-suites-soria",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T06:57:00+01:00",
+ "updated_at": "2026-11-02T07:10:00+01:00",
+ "business": {
+  "name": "Dauria Suites",
+  "legal_name": "DAURIA SUITES S.L. (aviso legal de su web)",
+  "registry_ids": [
+   "B42201988"
+  ],
+  "url": "https://dauriasoria.es/",
+  "domain": "dauriasoria.es",
+  "municipality": "Soria",
+  "province": "Soria",
+  "address": "Ronda Eloy Sanz Villa, 2 bis · 42003 Soria",
+  "phones": [
+   "+34 657 757 583",
+   "+34 975 044 648"
+  ],
+  "emails": [
+   "reservas@dauriasoria.es"
+  ],
+  "sector": "hotel apartamentos en el antiguo convento de San Francisco, centro de Soria"
+ },
+ "rating": {
+  "value": 4.8,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por web)",
+  "url": "https://www.google.com/maps/place/Dauria+Suites/@41.762631,-2.4712962,17z/data=!4m9!3m8!1s0xd44d3b9eacb2a9f:0x14028faf37a2230d!5m2!4m1!1i2!8m2!3d41.762631!4d-2.4712962!16s%2Fg%2F11t5f29903",
+  "date": "2026-10-29",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://booking.roomcloud.net/be/se1/hotel.jsp?hotel=16328&lang=es",
+  "note": "motor de reservas real enlazado desde su web (RoomCloud, hotel=16328), HTTP 200 comprobado el 02/11/2026 con lang=es, en, fr y de."
+ },
+ "audit_original": {
+  "url": "https://dauriasoria.es/",
+  "date": "2026-11-02T06:44:57+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
