@@ -1,0 +1,516 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-dauria-suites-soria",
+ "source_site": "https://dauriasoria.es/",
+ "source_read_at": "2026-11-02T06:58:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "apartamentos",
+   "keys": {
+    "es": [
+     "apartamentos",
+     "cuantos",
+     "tipos"
+    ],
+    "en": [
+     "apartments",
+     "how many",
+     "types"
+    ],
+    "fr": [
+     "appartements",
+     "types"
+    ],
+    "de": [
+     "apartments",
+     "wie viele",
+     "welche"
+    ]
+   },
+   "a": {
+    "es": "Hay 22 apartamentos: suite estándar (36 m², 1-2 personas), suite con terraza (40 m², 1-4), suite con jardín (41 m², 1-4), apartamento de 1 dormitorio (40 m², 1-4) y apartamento de 2 dormitorios (60 m², 1-6).",
+    "en": "There are 22 apartments: standard suite (36 m², 1-2 guests), suite with terrace (40 m², 1-4), suite with garden (41 m², 1-4), one-bedroom apartment (40 m², 1-4) and two-bedroom apartment (60 m², 1-6).",
+    "fr": "Il y a 22 appartements : suite standard (36 m², 1-2 personnes), suite avec terrasse (40 m², 1-4), suite avec jardin (41 m², 1-4), appartement d’une chambre (40 m², 1-4) et appartement de deux chambres (60 m², 1-6).",
+    "de": "Es gibt 22 Apartments: Standard-Suite (36 m², 1-2 Personen), Suite mit Terrasse (40 m², 1-4), Suite mit Garten (41 m², 1-4), Apartment mit einem Schlafzimmer (40 m², 1-4) und mit zwei Schlafzimmern (60 m², 1-6)."
+   },
+   "sources": [
+    {
+     "url": "https://dauriasoria.es/",
+     "quote": "Un ediﬁcio con 22 amplios apartamentos de cuidado diseño"
+    },
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "Suite estándar Capacidad: 1-2 personas Tamaño: 36 m2"
+    },
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "Suite con terraza Capacidad: 1-4 personas Tamaño: 40 m2"
+    },
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "Suite con jardín Capacidad: 1-4 personas Tamaño: 41 m2"
+    },
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "Apartamento 1 dormitorio Capacidad: 1-4 personas Tamaño: 40 m2"
+    },
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "Apartamento 2 dormitorios Capacidad: 1-6 personas Tamaño: 60 m2"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "suites",
+   "keys": {
+    "es": [
+     "suite",
+     "terraza",
+     "jardin"
+    ],
+    "en": [
+     "suite",
+     "terrace",
+     "garden"
+    ],
+    "fr": [
+     "suite",
+     "terrasse",
+     "jardin"
+    ],
+    "de": [
+     "suite",
+     "terrasse",
+     "garten"
+    ]
+   },
+   "a": {
+    "es": "La suite con terraza (40 m²) tiene terraza amueblada, salón con sofá cama doble y un dormitorio doble. La suite con jardín (41 m²) tiene un jardín de 35 m² con pérgola y zona de relax.",
+    "en": "The suite with terrace (40 m²) has a furnished terrace, a living room with double sofa bed and a double bedroom. The suite with garden (41 m²) has a 35 m² garden with pergola and relaxation area.",
+    "fr": "La suite avec terrasse (40 m²) a une terrasse meublée, un salon avec canapé-lit double et une chambre double. La suite avec jardin (41 m²) a un jardin de 35 m² avec pergola et coin détente.",
+    "de": "Die Suite mit Terrasse (40 m²) hat eine möblierte Terrasse, ein Wohnzimmer mit Doppelschlafsofa und ein Doppelschlafzimmer. Die Suite mit Garten (41 m²) hat einen 35 m² großen Garten mit Pergola und Ruhezone."
+   },
+   "sources": [
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "Con terraza amueblada y buena orientación para disfrutar del sol. Con salón equipado con sofá cama doble, y un dormitorio doble."
+    },
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "Suite con terraza Capacidad: 1-4 personas Tamaño: 40 m2"
+    },
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "Su jardín de 35 m2 con pérgola y zona de relax marca la diferencia."
+    },
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "Suite con jardín Capacidad: 1-4 personas Tamaño: 41 m2"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "familias",
+   "keys": {
+    "es": [
+     "6 personas",
+     "familia",
+     "dos dormitorios",
+     "2 dormitorios",
+     "grande"
+    ],
+    "en": [
+     "6 people",
+     "family",
+     "two bedroom",
+     "2 bedroom",
+     "largest"
+    ],
+    "fr": [
+     "6 personnes",
+     "famille",
+     "deux chambres",
+     "2 chambres"
+    ],
+    "de": [
+     "6 personen",
+     "familie",
+     "zwei schlafzimmer",
+     "2 schlafzimmer"
+    ]
+   },
+   "a": {
+    "es": "Sí, el apartamento de 2 dormitorios (60 m²) es para 1-6 personas: salón con sofá cama de dos plazas, dos dormitorios dobles, cocina con lavavajillas y dos baños completos con cabina de ducha.",
+    "en": "Yes, the two-bedroom apartment (60 m²) sleeps 1-6: living room with two-seater sofa bed, two double bedrooms, kitchen with dishwasher and two full shower rooms.",
+    "fr": "Oui, l’appartement de deux chambres (60 m²) accueille 1-6 personnes : salon avec canapé-lit deux places, deux chambres doubles, cuisine avec lave-vaisselle et deux salles de bain complètes avec douche.",
+    "de": "Ja, das Apartment mit zwei Schlafzimmern (60 m²) ist für 1-6 Personen: Wohnzimmer mit Zweier-Schlafsofa, zwei Doppelschlafzimmer, Küche mit Spülmaschine und zwei komplette Duschbäder."
+   },
+   "sources": [
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "Apartamento 2 dormitorios Capacidad: 1-6 personas Tamaño: 60 m2"
+    },
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "nuestro apartamento más grande cuenta con amplio salón con sofá - cama de dos plazas, zona de comedor y dos dormitorios dobles independientes"
+    },
+    {
+     "url": "https://dauriasoria.es/apartamentos/",
+     "quote": "incluido un lavavajillas. Y dos baños completos con cabina de ducha."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "limpieza",
+   "keys": {
+    "es": [
+     "limpieza"
+    ],
+    "en": [
+     "cleaning"
+    ],
+    "fr": [
+     "menage"
+    ],
+    "de": [
+     "reinigung"
+    ]
+   },
+   "a": {
+    "es": "Sí, los apartamentos incluyen una limpieza diaria.",
+    "en": "Yes, the apartments include daily cleaning.",
+    "fr": "Oui, les appartements incluent un ménage quotidien.",
+    "de": "Ja, die Apartments beinhalten eine tägliche Reinigung."
+   },
+   "sources": [
+    {
+     "url": "https://dauriasoria.es/room/suite-estandar/",
+     "quote": "Los apartamentos incluyen una limpieza diaria."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet"
+    ],
+    "en": [
+     "wifi",
+     "internet"
+    ],
+    "fr": [
+     "wifi",
+     "internet"
+    ],
+    "de": [
+     "wlan",
+     "wifi",
+     "internet"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay wifi gratuito en todo el hotel.",
+    "en": "Yes, free wifi throughout the hotel.",
+    "fr": "Oui, wifi gratuit dans tout l’hôtel.",
+    "de": "Ja, kostenloses WLAN im ganzen Haus."
+   },
+   "sources": [
+    {
+     "url": "https://dauriasoria.es/",
+     "quote": "Wifi gratuito en todo el hotel"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "accesibilidad",
+   "keys": {
+    "es": [
+     "adaptad",
+     "movilidad",
+     "discapacit",
+     "silla de ruedas"
+    ],
+    "en": [
+     "adapted",
+     "mobility",
+     "disab",
+     "wheelchair",
+     "accessible"
+    ],
+    "fr": [
+     "adapte",
+     "mobilite",
+     "handicap",
+     "fauteuil"
+    ],
+    "de": [
+     "barriere",
+     "mobilitat",
+     "behinder",
+     "rollstuhl",
+     "geeignet"
+    ]
+   },
+   "a": {
+    "es": "Sí, está adaptado para personas con movilidad reducida, y dispone de una suite con terraza perfectamente adaptada.",
+    "en": "Yes, it is adapted for people with reduced mobility, and there is a fully adapted suite with terrace.",
+    "fr": "Oui, il est adapté aux personnes à mobilité réduite, avec une suite avec terrasse entièrement adaptée.",
+    "de": "Ja, die Unterkunft ist für Menschen mit eingeschränkter Mobilität geeignet, und es gibt eine vollständig angepasste Suite mit Terrasse."
+   },
+   "sources": [
+    {
+     "url": "https://dauriasoria.es/",
+     "quote": "Adaptado para personas con movilidad reducida"
+    },
+    {
+     "url": "https://dauriasoria.es/room/suite-con-terraza/",
+     "quote": "Disponemos de una suite de estas características perfectamente adaptada para discapacitados."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "lavanderia",
+   "keys": {
+    "es": [
+     "lavadora",
+     "secadora",
+     "lavar ropa"
+    ],
+    "en": [
+     "washing machine",
+     "washer",
+     "dryer",
+     "laundry"
+    ],
+    "fr": [
+     "lave-linge",
+     "lave linge",
+     "seche",
+     "linge"
+    ],
+    "de": [
+     "waschmaschine",
+     "trockner",
+     "wasche"
+    ]
+   },
+   "a": {
+    "es": "Sí, las instalaciones cuentan con lavadoras y secadoras en las zonas comunes.",
+    "en": "Yes, there are washers and dryers in the common areas.",
+    "fr": "Oui, il y a des lave-linge et sèche-linge dans les parties communes.",
+    "de": "Ja, es gibt Waschmaschinen und Trockner in den Gemeinschaftsbereichen."
+   },
+   "sources": [
+    {
+     "url": "https://dauriasoria.es/room/suite-estandar/",
+     "quote": "Nuestras instalaciones cuentan, además, con lavadoras y secadoras en las zonas comunes."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "cocina",
+   "keys": {
+    "es": [
+     "cocina",
+     "cocinar",
+     "microondas"
+    ],
+    "en": [
+     "kitchen",
+     "cook",
+     "microwave"
+    ],
+    "fr": [
+     "cuisine",
+     "cuisiner",
+     "micro-onde"
+    ],
+    "de": [
+     "kuche",
+     "kochen",
+     "mikrowelle"
+    ]
+   },
+   "a": {
+    "es": "Sí, cada apartamento tiene cocina completamente equipada con menaje y electrodomésticos: vitrocerámica, microondas, cafetera, tostadora, exprimidor y hervidor de agua.",
+    "en": "Yes, every apartment has a fully equipped kitchen with utensils and appliances: hob, microwave, coffee maker, toaster, juicer and kettle.",
+    "fr": "Oui, chaque appartement a une cuisine entièrement équipée : plaque vitrocéramique, micro-ondes, cafetière, grille-pain, presse-agrumes et bouilloire.",
+    "de": "Ja, jedes Apartment hat eine voll ausgestattete Küche: Glaskeramikkochfeld, Mikrowelle, Kaffeemaschine, Toaster, Saftpresse und Wasserkocher."
+   },
+   "sources": [
+    {
+     "url": "https://dauriasoria.es/room/suite-estandar/",
+     "quote": "La cocina está completamente equipada con menaje y electrodomésticos."
+    },
+    {
+     "url": "https://dauriasoria.es/room/suite-estandar/",
+     "quote": "Vitrocerámica Microondas Menaje cocina Cafetera Tostadora Exprimidor Hervidor de agua"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "como llegar"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "get there"
+    ],
+    "fr": [
+     "ou est",
+     "ou se trouv",
+     "adresse",
+     "emplacement"
+    ],
+    "de": [
+     "wo liegt",
+     "adresse",
+     "lage"
+    ]
+   },
+   "a": {
+    "es": "Está en la Ronda Eloy Sanz Villa, 2 bis, 42003 Soria, en pleno centro, junto al Parque de la Dehesa y dentro del recinto del antiguo convento de San Francisco.",
+    "en": "It is at Ronda Eloy Sanz Villa, 2 bis, 42003 Soria, right in the centre, next to the Dehesa Park and within the former convent of San Francisco.",
+    "fr": "Il se trouve Ronda Eloy Sanz Villa, 2 bis, 42003 Soria, en plein centre, à côté du parc de la Dehesa, dans l’ancien couvent de San Francisco.",
+    "de": "Es liegt in der Ronda Eloy Sanz Villa, 2 bis, 42003 Soria, mitten im Zentrum, am Dehesa-Park, im ehemaligen Kloster San Francisco."
+   },
+   "sources": [
+    {
+     "url": "https://dauriasoria.es/contacto/",
+     "quote": "Ronda Eloy Sanz Villa, 2 bis Soria 42003"
+    },
+    {
+     "url": "https://dauriasoria.es/",
+     "quote": "En pleno centro de Soria, junto al Parque de la Dehesa y dentro del recinto del antiguo convento de San Francisco"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "que-ver",
+   "keys": {
+    "es": [
+     "que ver",
+     "visitar",
+     "cerca",
+     "monumento"
+    ],
+    "en": [
+     "what to see",
+     "visit",
+     "nearby",
+     "sights"
+    ],
+    "fr": [
+     "que voir",
+     "visiter",
+     "proximite"
+    ],
+    "de": [
+     "sehen",
+     "besichtig",
+     "sehenswurd",
+     "in der nahe"
+    ]
+   },
+   "a": {
+    "es": "Proponen San Juan de Duero, el paseo de San Polo a la ermita de San Saturio, el Palacio de los Condes de Gómara y el Parque de la Dehesa, a dos minutos a pie, con más de 120 especies de árboles y arbustos.",
+    "en": "They suggest San Juan de Duero, the walk from San Polo to the hermitage of San Saturio, the Palace of the Counts of Gómara and the Dehesa Park, two minutes’ walk away, with over 120 species of trees and shrubs.",
+    "fr": "Ils proposent San Juan de Duero, la promenade de San Polo à l’ermitage de San Saturio, le palais des comtes de Gómara et le parc de la Dehesa, à deux minutes à pied, avec plus de 120 espèces d’arbres et d’arbustes.",
+    "de": "Empfohlen werden San Juan de Duero, der Spaziergang von San Polo zur Einsiedelei San Saturio, der Palast der Grafen von Gómara und der Dehesa-Park, zwei Gehminuten entfernt, mit über 120 Baum- und Straucharten."
+   },
+   "sources": [
+    {
+     "url": "https://dauriasoria.es/soria-sin-prisas/",
+     "quote": "San Juan de Duero"
+    },
+    {
+     "url": "https://dauriasoria.es/soria-sin-prisas/",
+     "quote": "De San Polo a San Saturio"
+    },
+    {
+     "url": "https://dauriasoria.es/soria-sin-prisas/",
+     "quote": "Palacio de los Condes de Gómara"
+    },
+    {
+     "url": "https://dauriasoria.es/soria-sin-prisas/",
+     "quote": "a tan solo dos minutos a pie desde Dauria, es un auténtico jardín botá- nico, con más de 120 especies de árboles y arbustos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes ver disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al 657 757 583 o al 975 044 648, o escribir a reservas@dauriasoria.es. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can check availability and book on their booking engine (Book button), call 657 757 583 or 975 044 648, or email reservas@dauriasoria.es. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le 657 757 583 ou le 975 044 648, ou écrire à reservas@dauriasoria.es. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, 657 757 583 oder 975 044 648 anrufen oder an reservas@dauriasoria.es schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://dauriasoria.es/contacto/",
+     "quote": "657 757 583 / 975 044 648"
+    },
+    {
+     "url": "https://dauriasoria.es/contacto/",
+     "quote": "reservas@dauriasoria.es"
+    }
+   ],
+   "cta": true
+  }
+ ]
+}

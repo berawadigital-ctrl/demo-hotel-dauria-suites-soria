@@ -1,0 +1,48 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://dauriasoria.es/",
+ "read_at": "2026-11-02T06:58:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://dauriasoria.es/",
+   "sha256": "71cf22134a134f88156cb737db8f5fa43e08eabe0511e029854a79e36abd69f1",
+   "chars": 5334
+  },
+  {
+   "url": "https://dauriasoria.es/apartamentos/",
+   "sha256": "52e74e8792808bb44e6033329e971dd0ba911d50dcd80e45242e63feadeb28bf",
+   "chars": 4163
+  },
+  {
+   "url": "https://dauriasoria.es/contacto/",
+   "sha256": "450ceecdeaf4b4abd1797757b29d84ac5d1e67977801aa69f9e10a2e6d876dd7",
+   "chars": 3051
+  },
+  {
+   "url": "https://dauriasoria.es/room/suite-con-terraza/",
+   "sha256": "9cddfe8be888e84bba1e4a3c1d0f745184c5cd50e7311bdc17804c0cf26c40be",
+   "chars": 3853
+  },
+  {
+   "url": "https://dauriasoria.es/room/suite-estandar/",
+   "sha256": "347cea8e90c18c4ba4af0b7747645341696a90fe1f87de1b9e035868dbaf4330",
+   "chars": 3736
+  },
+  {
+   "url": "https://dauriasoria.es/soria-sin-prisas/",
+   "sha256": "a30463e35f5b55e8f92abf60b477bd0089223de6cbc8aba6e3b5fe8cd25b8bf8",
+   "chars": 10845
+  }
+ ],
+ "other_pages_read": [
+  "https://dauriasoria.es",
+  "https://dauriasoria.es/aviso-legal/",
+  "https://dauriasoria.es/galeria/",
+  "https://dauriasoria.es/intervencion-en-mejora-de-la-eficiencia-energetica/",
+  "https://dauriasoria.es/politica-de-cookies/",
+  "https://dauriasoria.es/room/apartamento-1-dormitorio/",
+  "https://dauriasoria.es/room/apartamento-2-dormitorios/",
+  "https://dauriasoria.es/room/suite-con-jardin/"
+ ]
+}
