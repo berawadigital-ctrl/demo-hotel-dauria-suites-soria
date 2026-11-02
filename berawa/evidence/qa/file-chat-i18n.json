@@ -1,0 +1,420 @@
+{
+ "url": "file:///tmp/clon-hotel-dauria-suites-soria/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué apartamentos tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 22 apartamentos: suite estándar (36 m², 1-2 personas), suite con terraza (40 m², 1-4), suite con jardín (41 m², 1-4), apartamento de 1 d"
+    },
+    {
+     "q": "¿Cuántos apartamentos hay?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 22 apartamentos: suite estándar (36 m², 1-2 personas), suite con terraza (40 m², 1-4), suite con jardín (41 m², 1-4), apartamento de 1 d"
+    },
+    {
+     "q": "¿Tenéis suite con terraza?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La suite con terraza (40 m²) tiene terraza amueblada, salón con sofá cama doble y un dormitorio doble. La suite con jardín (41 m²) tiene un "
+    },
+    {
+     "q": "¿Tenéis apartamento para 6 personas?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, el apartamento de 2 dormitorios (60 m²) es para 1-6 personas: salón con sofá cama de dos plazas, dos dormitorios dobles, cocina con lava"
+    },
+    {
+     "q": "¿Hay limpieza diaria?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, los apartamentos incluyen una limpieza diaria."
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, hay wifi gratuito en todo el hotel."
+    },
+    {
+     "q": "¿Está adaptado para movilidad reducida?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, está adaptado para personas con movilidad reducida, y dispone de una suite con terraza perfectamente adaptada."
+    },
+    {
+     "q": "¿Hay lavadora?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, las instalaciones cuentan con lavadoras y secadoras en las zonas comunes."
+    },
+    {
+     "q": "¿Tiene cocina?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, cada apartamento tiene cocina completamente equipada con menaje y electrodomésticos: vitrocerámica, microondas, cafetera, tostadora, exp"
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Está en la Ronda Eloy Sanz Villa, 2 bis, 42003 Soria, en pleno centro, junto al Parque de la Dehesa y dentro del recinto del antiguo convent"
+    },
+    {
+     "q": "¿Qué ver en Soria?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Proponen San Juan de Duero, el paseo de San Polo a la ermita de San Saturio, el Palacio de los Condes de Gómara y el Parque de la Dehesa, a "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes ver disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al 657 757 583 o al 975 044 648, o escribir a reservas"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes ver disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al 657 757 583 o al 975 044 648, o escribir a reservas"
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 657 757 583 · +34 975 044 648 · reservas@dauriasoria.es."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 657 757 583 · +34 975 044 648 · reservas@dauriasoria.es."
+    }
+   ],
+   "chips": [
+    "¿Qué apartamentos tenéis?",
+    "¿Hay limpieza diaria?",
+    "¿Está adaptado?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which apartments do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 22 apartments: standard suite (36 m², 1-2 guests), suite with terrace (40 m², 1-4), suite with garden (41 m², 1-4), one-bedroom ap"
+    },
+    {
+     "q": "How many apartments are there?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 22 apartments: standard suite (36 m², 1-2 guests), suite with terrace (40 m², 1-4), suite with garden (41 m², 1-4), one-bedroom ap"
+    },
+    {
+     "q": "Do you have a suite with terrace?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The suite with terrace (40 m²) has a furnished terrace, a living room with double sofa bed and a double bedroom. The suite with garden (41 m"
+    },
+    {
+     "q": "Do you have an apartment for 6 people?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, the two-bedroom apartment (60 m²) sleeps 1-6: living room with two-seater sofa bed, two double bedrooms, kitchen with dishwasher and tw"
+    },
+    {
+     "q": "Is there daily cleaning?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, the apartments include daily cleaning."
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, free wifi throughout the hotel."
+    },
+    {
+     "q": "Is it adapted for reduced mobility?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, it is adapted for people with reduced mobility, and there is a fully adapted suite with terrace."
+    },
+    {
+     "q": "Is there a washing machine?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes, there are washers and dryers in the common areas."
+    },
+    {
+     "q": "Does it have a kitchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes, every apartment has a fully equipped kitchen with utensils and appliances: hob, microwave, coffee maker, toaster, juicer and kettle."
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "It is at Ronda Eloy Sanz Villa, 2 bis, 42003 Soria, right in the centre, next to the Dehesa Park and within the former convent of San Franci"
+    },
+    {
+     "q": "What to see in Soria?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "They suggest San Juan de Duero, the walk from San Polo to the hermitage of San Saturio, the Palace of the Counts of Gómara and the Dehesa Pa"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call 657 757 583 or 975 044 648, or email reservas@dauriasoria.es"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call 657 757 583 or 975 044 648, or email reservas@dauriasoria.es"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 657 757 583 · +34 975 044 648 · reservas@dauriasoria.es."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 657 757 583 · +34 975 044 648 · reservas@dauriasoria.es."
+    }
+   ],
+   "chips": [
+    "Which apartments do you have?",
+    "Is there daily cleaning?",
+    "Is it accessible?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quels appartements avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 22 appartements : suite standard (36 m², 1-2 personnes), suite avec terrasse (40 m², 1-4), suite avec jardin (41 m², 1-4), appartemen"
+    },
+    {
+     "q": "Combien d’appartements y a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 22 appartements : suite standard (36 m², 1-2 personnes), suite avec terrasse (40 m², 1-4), suite avec jardin (41 m², 1-4), appartemen"
+    },
+    {
+     "q": "Avez-vous une suite avec terrasse ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La suite avec terrasse (40 m²) a une terrasse meublée, un salon avec canapé-lit double et une chambre double. La suite avec jardin (41 m²) a"
+    },
+    {
+     "q": "Avez-vous un appartement pour 6 personnes ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, l’appartement de deux chambres (60 m²) accueille 1-6 personnes : salon avec canapé-lit deux places, deux chambres doubles, cuisine avec"
+    },
+    {
+     "q": "Y a-t-il un ménage quotidien ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, les appartements incluent un ménage quotidien."
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, wifi gratuit dans tout l’hôtel."
+    },
+    {
+     "q": "Est-ce adapté aux personnes à mobilité réduite ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, il est adapté aux personnes à mobilité réduite, avec une suite avec terrasse entièrement adaptée."
+    },
+    {
+     "q": "Y a-t-il un lave-linge ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui, il y a des lave-linge et sèche-linge dans les parties communes."
+    },
+    {
+     "q": "Y a-t-il une cuisine ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui, chaque appartement a une cuisine entièrement équipée : plaque vitrocéramique, micro-ondes, cafetière, grille-pain, presse-agrumes et bo"
+    },
+    {
+     "q": "Où est-ce ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Il se trouve Ronda Eloy Sanz Villa, 2 bis, 42003 Soria, en plein centre, à côté du parc de la Dehesa, dans l’ancien couvent de San Francisco"
+    },
+    {
+     "q": "Que voir à Soria ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Ils proposent San Juan de Duero, la promenade de San Polo à l’ermitage de San Saturio, le palais des comtes de Gómara et le parc de la Dehes"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le 657 757 583 ou le 975 044 648"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le 657 757 583 ou le 975 044 648"
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 657 757 583 · +34 975 044 648 · reservas@dauriasoria.es."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 657 757 583 · +34 975 044 648 · reservas@dauriasoria.es."
+    }
+   ],
+   "chips": [
+    "Quels appartements avez-vous ?",
+    "Y a-t-il un ménage quotidien ?",
+    "Est-ce adapté ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Apartments gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 22 Apartments: Standard-Suite (36 m², 1-2 Personen), Suite mit Terrasse (40 m², 1-4), Suite mit Garten (41 m², 1-4), Apartment mit e"
+    },
+    {
+     "q": "Wie viele Apartments gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 22 Apartments: Standard-Suite (36 m², 1-2 Personen), Suite mit Terrasse (40 m², 1-4), Suite mit Garten (41 m², 1-4), Apartment mit e"
+    },
+    {
+     "q": "Haben Sie eine Suite mit Terrasse?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Die Suite mit Terrasse (40 m²) hat eine möblierte Terrasse, ein Wohnzimmer mit Doppelschlafsofa und ein Doppelschlafzimmer. Die Suite mit Ga"
+    },
+    {
+     "q": "Haben Sie ein Apartment für 6 Personen?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, das Apartment mit zwei Schlafzimmern (60 m²) ist für 1-6 Personen: Wohnzimmer mit Zweier-Schlafsofa, zwei Doppelschlafzimmer, Küche mit "
+    },
+    {
+     "q": "Gibt es tägliche Reinigung?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, die Apartments beinhalten eine tägliche Reinigung."
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja, kostenloses WLAN im ganzen Haus."
+    },
+    {
+     "q": "Ist es für eingeschränkte Mobilität geeignet?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, die Unterkunft ist für Menschen mit eingeschränkter Mobilität geeignet, und es gibt eine vollständig angepasste Suite mit Terrasse."
+    },
+    {
+     "q": "Gibt es eine Waschmaschine?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Ja, es gibt Waschmaschinen und Trockner in den Gemeinschaftsbereichen."
+    },
+    {
+     "q": "Gibt es eine Küche?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Ja, jedes Apartment hat eine voll ausgestattete Küche: Glaskeramikkochfeld, Mikrowelle, Kaffeemaschine, Toaster, Saftpresse und Wasserkocher"
+    },
+    {
+     "q": "Wo liegt die Unterkunft?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Es liegt in der Ronda Eloy Sanz Villa, 2 bis, 42003 Soria, mitten im Zentrum, am Dehesa-Park, im ehemaligen Kloster San Francisco."
+    },
+    {
+     "q": "Was kann man in Soria sehen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Empfohlen werden San Juan de Duero, der Spaziergang von San Polo zur Einsiedelei San Saturio, der Palast der Grafen von Gómara und der Dehes"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, 657 757 583 oder 975 044 648 anrufen oder an"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, 657 757 583 oder 975 044 648 anrufen oder an"
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 657 757 583 · +34 975 044 648 · reservas@dauriasoria.es."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 657 757 583 · +34 975 044 648 · reservas@dauriasoria.es."
+    }
+   ],
+   "chips": [
+    "Welche Apartments gibt es?",
+    "Gibt es tägliche Reinigung?",
+    "Ist es barrierefrei?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
